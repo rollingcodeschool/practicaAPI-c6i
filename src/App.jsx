@@ -10,6 +10,7 @@ function App() {
       <img
         src="https://trello.com/1/cards/632a448eb47fe800d9bdef25/attachments/632cd857ffabe0042d12baf2/download/image.png"
         alt="the simpsons"
+        className="w-100"
       />
       </div>
       <div className="text-center">
